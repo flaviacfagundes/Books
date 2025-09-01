@@ -18,4 +18,4 @@ A ideia é consolidar o aprendizado e deixar registrado meu progresso na área d
 
 ## 💻 Tecnologias Utilizadas
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
