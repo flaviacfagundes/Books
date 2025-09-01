@@ -16,7 +16,6 @@ A ideia é consolidar o aprendizado e deixar registrado meu progresso na área d
 - Criar um repositório de referência pessoal para consultas futuras
 - Compartilhar conhecimento de forma aberta e colaborativa
 
-## 📌 Observação
+## 💻 Tecnologias Utilizadas
 
-As resoluções dos exercícios representam minha forma de aprendizado e interpretação.
-Podem não ser as únicas formas corretas de solução.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
