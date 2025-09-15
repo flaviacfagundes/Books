@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "7ce4af17b4ddd677",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb1bd254a22490f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b676ee5bed9dd58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENTENDENDO ALGORITMOS/Capitulo 05/5. Tabelas Hash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Tabelas Hash"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86029e5f29bd452f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1efa764e3c208d68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b355162540d1b638",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "b2808ed92cab1efe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "9ca85407bc02b702",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0136eaded0652840",
+    "type": "split",
+    "children": [
+      {
+        "id": "037364d551e201b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88c9e752d1f1e46e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ENTENDENDO ALGORITMOS/Capitulo 05/5. Tabelas Hash.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 5. Tabelas Hash"
+            }
+          },
+          {
+            "id": "e1ed25b198e79e81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ENTENDENDO ALGORITMOS/Capitulo 05/5. Tabelas Hash.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 5. Tabelas Hash"
+            }
+          },
+          {
+            "id": "6d7f7eaf821eda08",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f7882783b9cd1b47",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ENTENDENDO ALGORITMOS/Capitulo 05/5. Tabelas Hash.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 5. Tabelas Hash"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "b355162540d1b638",
+  "lastOpenFiles": [
+    "ENTENDENDO ALGORITMOS/Imgs/Pasted image 20250901110557.png"
+  ]
+}
